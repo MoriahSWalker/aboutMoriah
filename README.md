@@ -1,4 +1,3 @@
-# aboutMoriah
 <!DOCTYPE html>
 <html>
 <head>
